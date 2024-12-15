@@ -2,19 +2,30 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#top {
+    color: #F8744C;
+    text-align: center;
+}
+
+div {
+    margin-bottom: 10px;
+    padding: 30px;
+    text-align: center; 
+}
+
+.lasagna-content {
+    background-color: #548CA8;
+}
+
+.oatmeal-content {
+    background-color: #476072;
+}
+
+.sandwich-content {
+    background-color: #334257;
+}
+
 .recipe.links {
+    color: white;
     text-decoration: none;
-    color: blue;
-}
-
-#lasagna {
-    color: red;
-}
-
-#oatmeal {
-    color: red;
-}
-
-#sandwich {
-    color: red;
 }
