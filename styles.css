@@ -23,8 +23,6 @@ div {
     background-color: #334257;
 }
 
-
-
 .recipe.links {
     color: white;
     font-size: 24px;
@@ -32,4 +30,34 @@ div {
     display: inline-block;
     width: 160px;
     height: 160px;
+}
+
+.card {
+    width: 450px;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.title {
+    background: #fde8bb;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+.description {
+    background: #fde8bb;
+    margin-bottom: 8px;
+    padding: 16px 46px;
+}
+
+.ingredients {
+    background-color: #fde8bb;
+    margin-bottom: 8px;
+    padding: 16px 46px;
+}
+
+.steps {
+    background-color: #fde8bb;
+    margin-bottom: 8px;
+    padding: 16px 46px;
 }
